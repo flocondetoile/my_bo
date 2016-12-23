@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: term_unpush_front
+label: 'Unpush term from front'
+type: taxonomy_term
+plugin: term_unpush_front
+configuration: {  }

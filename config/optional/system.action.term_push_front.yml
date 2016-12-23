@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: term_push_front
+label: 'Push term in front'
+type: taxonomy_term
+plugin: term_push_front
+configuration: {  }
